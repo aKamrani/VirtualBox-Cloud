@@ -26,12 +26,12 @@ It's based on VirtualBox SDK tools so you need to install it first.
 
 ## Dashboard Examples
 ### demo:
-![VirtualBox Cloud](./images/video.gif)
+<img src="https://github.com/aKamrani/VirtualBox-Cloud/blob/main/images/video.gif" width="500">
 
 ### pictures:
-![VirtualBox Cloud](./images/1.png)
-![VirtualBox Cloud](./images/2.png)
-![VirtualBox Cloud](./images/6.png)
+<img src="https://github.com/aKamrani/VirtualBox-Cloud/blob/main/images/1.png" width="500">
+<img src="https://github.com/aKamrani/VirtualBox-Cloud/blob/main/images/2.png" width="500">
+<img src="https://github.com/aKamrani/VirtualBox-Cloud/blob/main/images/3.png" width="500">
 <img src="https://github.com/aKamrani/VirtualBox-Cloud/blob/main/images/3.png" width="250">
 <img src="https://github.com/aKamrani/VirtualBox-Cloud/blob/main/images/4.png" width="250">
 <img src="https://github.com/aKamrani/VirtualBox-Cloud/blob/main/images/5.png" width="250">
