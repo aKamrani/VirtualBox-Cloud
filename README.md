@@ -13,7 +13,7 @@ It's based on VirtualBox SDK tools so you need to install it first.
 * Start/Stop vms.
 * Change vm's name.
 * Create/Remove vms.
-* Change Memory(mB) and CPU(#Cores)
+* Change Memory(mB) and CPU(#Cores) of vms.
 * Web based terminal and automatic SSH to vms.
 * Monitor Memory usage and CPU usage (for each vm)
 * Monitor Memory usage and CPU usage (total)
