@@ -32,11 +32,9 @@ It's based on VirtualBox SDK tools so you need to install it first.
 <img src="https://github.com/aKamrani/VirtualBox-Cloud/blob/main/images/1.png" width="600">
 <img src="https://github.com/aKamrani/VirtualBox-Cloud/blob/main/images/2.png" width="600">
 <img src="https://github.com/aKamrani/VirtualBox-Cloud/blob/main/images/6.png" width="600">
-<row>
-<img src="https://github.com/aKamrani/VirtualBox-Cloud/blob/main/images/3.png" width="200">
-<img src="https://github.com/aKamrani/VirtualBox-Cloud/blob/main/images/4.png" width="200">
-<img src="https://github.com/aKamrani/VirtualBox-Cloud/blob/main/images/5.png" width="200">
-</row>
+<img src="https://github.com/aKamrani/VirtualBox-Cloud/blob/main/images/3.png" width="150">
+<img src="https://github.com/aKamrani/VirtualBox-Cloud/blob/main/images/4.png" width="150">
+<img src="https://github.com/aKamrani/VirtualBox-Cloud/blob/main/images/5.png" width="150">
 
 ## LICENSE
 MIT, see LICENSE.md file.
