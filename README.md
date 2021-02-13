@@ -22,7 +22,7 @@ It's based on VirtualBox SDK tools so you need to install it first.
 1) Clone this repo using `git clone https://github.com/aKamrani/VirtualBox-Cloud.git`
 2) Install dependencies (using `pip install -r requirements.txt`).
 3) Invoke `python cloud_manager.py` to start web app & connect to VBoxManager.
-4) Enjoy.
+4) Enjoy ❤
 
 ## Dashboard Examples
 ### demo:
@@ -32,9 +32,9 @@ It's based on VirtualBox SDK tools so you need to install it first.
 ![VirtualBox Cloud](./images/1.png)
 ![VirtualBox Cloud](./images/2.png)
 ![VirtualBox Cloud](./images/6.png)
-<img src="https://github.com/aKamrani/VirtualBox-Cloud/blob/main/images/3.png" width="200">
-<img src="https://github.com/aKamrani/VirtualBox-Cloud/blob/main/images/4.png" width="200">
-<img src="https://github.com/aKamrani/VirtualBox-Cloud/blob/main/images/5.png" width="200">
+<img src="https://github.com/aKamrani/VirtualBox-Cloud/blob/main/images/3.png" width="300">
+<img src="https://github.com/aKamrani/VirtualBox-Cloud/blob/main/images/4.png" width="300">
+<img src="https://github.com/aKamrani/VirtualBox-Cloud/blob/main/images/5.png" width="300">
 
 ## LICENSE
 MIT, see LICENSE.md file.
