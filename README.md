@@ -25,16 +25,16 @@ It's based on VirtualBox SDK tools so you need to install it first.
 4) Enjoy.
 
 ## Dashboard Examples
-### video:
+### demo:
 ![VirtualBox Cloud](./images/video.gif)
 
 ### pictures:
 ![VirtualBox Cloud](./images/1.png)
 ![VirtualBox Cloud](./images/2.png)
-![VirtualBox Cloud](./images/3.png)
-![VirtualBox Cloud](./images/4.png)
-![VirtualBox Cloud](./images/5.png)
 ![VirtualBox Cloud](./images/6.png)
+<img src="https://github.com/aKamrani/VirtualBox-Cloud/images/3.png" width="100">
+<img src="https://github.com/aKamrani/VirtualBox-Cloud/images/4.png" width="100">
+<img src="https://github.com/aKamrani/VirtualBox-Cloud/images/5.png" width="100">
 
 ## LICENSE
 MIT, see LICENSE.md file.
