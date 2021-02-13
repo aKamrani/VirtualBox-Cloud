@@ -3,7 +3,7 @@ Cloud manager web application based on Virtual Box SDK tools
 
 
 [![made-by-python](https://img.shields.io/badge/Made%20By-Python-blue?style=for-the-badge&logo=python)](https://www.python.org/)
-
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/aKamrani/VirtualBox-Cloud)
 
 ## Introduction
 It's a simple sample cloud manager app to manage virtual machines created by VirtualBox.
